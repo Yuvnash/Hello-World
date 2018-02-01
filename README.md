@@ -4,3 +4,4 @@ it will be used later for mapping POM process
 QSR - quality survey report 
 adding some new features
 This is my first branch created it's like a copy paste,i.e, a snapshot of the master branch at a particular time.
+i want to create a new branch and at the same time modify the master and at the end merge everything together
